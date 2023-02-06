@@ -1,0 +1,16 @@
+.items {
+    display: flex;
+}
+
+.single {
+    margin-right: 100px;
+}
+
+.option {
+    width: 200px;
+}
+
+.button {
+    margin-top: 50px;
+    width: 170px;
+}
